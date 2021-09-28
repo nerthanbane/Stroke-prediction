@@ -1,4 +1,4 @@
-##stroke-prediction
+<h1>stroke-prediction</h1>
 Stroke infarct growth prediction (3D, PyTorch 0.3)
 
 ##Objective
