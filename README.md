@@ -1,7 +1,8 @@
 <h1>stroke-prediction</h1>
 Stroke infarct growth prediction (Jupyter)
 
-<h2>Introduction<h2>
+<h2>Introduction</h2>
+  
 The main purpose of this notebook is to provide a comprehensive exploratory data analysis (EDA) for those wishing to quickly get a feel for the data and move on to modeling. I also tidy up the data set for those wishing to fork this notebook and use the cleaned data. The code for this EDA can be viewed by clicking the “Code” box next to the output, by selecting “Show all code” at the top right of this document, or by scrolling down to the full R markdown document at the bottom of the page.
 
 <h2>DataSet</h2>
